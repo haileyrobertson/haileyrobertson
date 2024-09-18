@@ -11,4 +11,4 @@
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0009-0007-2988-307X)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=C2KykoMAAAAJ&hl=en&oi=ao)
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/729101_linkedin_icon.png"/>](https://www.linkedin.com/in/hailey-robertson/)
-[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Antu_mail-folder-sent.svg"/>](mailto:hailey.robertson@yale.edu)
+[<img align="left" width="22px" src="https://commons.wikimedia.org/wiki/File:Antu_mail-folder-sent.svg"/>](mailto:hailey.robertson@yale.edu)
