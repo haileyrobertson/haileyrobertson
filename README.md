@@ -1,6 +1,6 @@
 ## Hi! I'm Hailey 👋
 
-📚 I'm a PhD student in the [Grubaugh lab](https://grubaughlab.com/) and [Carlson lab](https://carlsonlab.bio/) at Yale University, and an NSF Graduate Research Fellow. 
+📚 I'm a PhD student in the [Grubaugh](https://grubaughlab.com/) and [Carlson](https://carlsonlab.bio/) labs at Yale University, and an NSF Graduate Research Fellow. 
 
 🦠 My PhD research centers around how we can understand and predict transmission dynamics for arthropod and zoonotic diseases using mathematical and computational tools 📈 I also spend time thinking about ecological networks, artificial intelligence, global health governance, and sustainable development and finance.
 
