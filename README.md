@@ -2,7 +2,7 @@
 
 📚 I'm a PhD student in the [Grubaugh](https://grubaughlab.com/) and [Carlson](https://carlsonlab.bio/) labs at Yale School of Public Health, and an NSF Graduate Research Fellow. 
 
-🦠 My research centers around how we can understand and predict transmission dynamics for arthropod and zoonotic diseases using mathematical and computational tools 📈 I also spend time thinking about ecological networks, artificial intelligence, global health governance, and sustainable development and finance.
+🦠 My research centers around how we can understand and predict transmission dynamics for arthropod and zoonotic diseases using mathematical and computational tools. I also spend time thinking about ecological networks, artificial intelligence, global health governance, and sustainable development and finance.
 
 🗂️ On my GitHub, you'll find work from my various research projects and classes – these will mostly be at the intersection of disease ecology, global health, and climate change, but I often branch across disciplines! You can learn more about me [here](https://haileyrobertson.com)
 
